@@ -1,4 +1,4 @@
-### patikaprojects
+
 
 # Insertion Sort Projesi
 
@@ -21,7 +21,7 @@
 
 Big O Notation = O(n²)
 
-18 ortada → average case
+18 ortadaolduğundan dolayı → average case
 
     [7,3,5,8,2,9,4,15,6]
     [2,3,5,8,7,9,4,15,6]
